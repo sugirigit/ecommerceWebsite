@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "jewelry-68f56",
+    "staging": "ecommerce-845b6",
+    "ecommerce": "ecommerce-845b6"
+  },
+  "targets": {
+    "ecommerce-845b6": {
+      "hosting": {
+        "ecommerce": [
+          "ecommerce-845b6"
+        ]
+      }
+    }
+  }
+}
